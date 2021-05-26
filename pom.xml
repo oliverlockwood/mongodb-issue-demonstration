@@ -5,8 +5,10 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
+		<!-- 2.3.9.RELEASE works as expected; 2.3.10.RELEASE and 2.3.11.RELEASE reproduce the issue -->
+		<!-- 2.4.5 and 2.5.0 also continue to demonstrate the problem. -->
 		<version>2.3.10.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 
 	<groupId>com.oliverlockwood</groupId>
