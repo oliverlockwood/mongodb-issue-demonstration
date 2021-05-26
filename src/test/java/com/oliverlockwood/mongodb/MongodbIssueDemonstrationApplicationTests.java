@@ -1,4 +1,4 @@
-package com.oliverlockwood.mongodbissuedemonstration;
+package com.oliverlockwood.mongodb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

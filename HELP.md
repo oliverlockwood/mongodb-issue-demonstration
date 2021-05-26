@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.oliverlockwood.mongodb-issue-demonstration' is invalid and this project uses 'com.oliverlockwood.mongodbissuedemonstration' instead.
+* The original package name 'com.oliverlockwood.mongodb-issue-demonstration' is invalid and this project uses 'com.oliverlockwood.mongodb' instead.
 
 # Getting Started
 
